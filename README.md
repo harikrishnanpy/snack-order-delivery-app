@@ -2,7 +2,7 @@
 
 snack application project demonstration video link -https://drive.google.com/file/d/158bH6YZxd8EByjqJLEMOA8ziCI3UKclq/view?usp=drivesdk
 
-project member developer link
+project member developer links
 
 S.Harikrishnan -(https://g.dev/harikrishnan65095)
 
