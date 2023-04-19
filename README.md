@@ -1,7 +1,6 @@
 # snack-order-delivery-app
-Google developer profile like -https://g.dev/harikrishnan65095
 
-snack application project demonstration video link -
+snack application project demonstration video link -https://drive.google.com/file/d/158bH6YZxd8EByjqJLEMOA8ziCI3UKclq/view?usp=drivesdk
 
 project member developer link
 
